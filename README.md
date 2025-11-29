@@ -67,6 +67,6 @@ Soy **Desarrolladora Full-Stack** con formación (en curso) en Ingeniería de Si
 ---
 
 ## Contacto
-- **Email:** [fernandanevarez7171@gmail.com]
+- **Email:** fernandanevarez7171 [at] gmail [dot] com
 
 ---
